@@ -1,6 +1,6 @@
 # Михаил Драбинович                                                   
 
-<img src="./Photo.JPG" width="200" height="350" alt="Фотка">
+<img src="./Photo.JPG" width="250" height="350" alt="Фотка">
 
 Беларусь, город Гродно  
 230017  
